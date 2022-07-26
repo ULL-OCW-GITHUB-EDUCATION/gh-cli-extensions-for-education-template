@@ -1,0 +1,1 @@
+# gh-cli-extensions-for-education-template
